@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 YaBrowser/25.10.0.0 Safari/537.36" version="29.2.9">
+  <diagram name="Страница-1" id="fgTFJm8TUGLe3xsxZQz-">
+    <mxGraphModel dx="1298" dy="735" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1lbqmwM6PySMvEZ058qA-1" parent="1" style="triangle;whiteSpace=wrap;html=1;align=left;" value="Снижение производительности&lt;br&gt;&amp;nbsp;и устойчивости системы в процессе миграции и после" vertex="1">
+          <mxGeometry height="220" width="210" x="1010" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="1lbqmwM6PySMvEZ058qA-2" edge="1" parent="1" source="1lbqmwM6PySMvEZ058qA-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.971;entryY=0.509;entryDx=0;entryDy=0;entryPerimeter=0;" target="1lbqmwM6PySMvEZ058qA-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1lbqmwM6PySMvEZ058qA-3" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="1lbqmwM6PySMvEZ058qA-1" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="280" y="400" as="sourcePoint" />
+            <mxPoint x="690" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1lbqmwM6PySMvEZ058qA-4" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;" value="" vertex="1">
+          <mxGeometry height="60" width="100" x="170" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="1lbqmwM6PySMvEZ058qA-5" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="800" y="730" as="sourcePoint" />
+            <mxPoint x="980" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1lbqmwM6PySMvEZ058qA-6" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="420" y="710" as="sourcePoint" />
+            <mxPoint x="600" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1lbqmwM6PySMvEZ058qA-7" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="820" y="100" as="sourcePoint" />
+            <mxPoint x="980" y="396" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1lbqmwM6PySMvEZ058qA-8" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="440" y="110" as="sourcePoint" />
+            <mxPoint x="600" y="396" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1lbqmwM6PySMvEZ058qA-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;Бизнес-процессы не формализованы (запись, отмена, перенос, оплата).&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="340" x="600" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="1lbqmwM6PySMvEZ058qA-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;Нет единого источника истины (Excel ↔ 1С ↔ почта)&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;.&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="420" x="570" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="1lbqmwM6PySMvEZ058qA-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;Параллельное ведение старых и новых процессов.&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="340" x="590" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="1lbqmwM6PySMvEZ058qA-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Нет регламентов на обработку ошибок и инцидентов" vertex="1">
+          <mxGeometry height="30" width="320" x="570" y="555" as="geometry" />
+        </mxCell>
+        <mxCell id="1lbqmwM6PySMvEZ058qA-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;&lt;u&gt;Процессы&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="750" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="1lbqmwM6PySMvEZ058qA-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Низкое качество данных (дубликаты, неполные записи, разные форматы)." vertex="1">
+          <mxGeometry height="30" width="260" x="700" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="1lbqmwM6PySMvEZ058qA-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Отсутствие единой схемы данных (Excel ≠ будущие БД)." vertex="1">
+          <mxGeometry height="30" width="190" x="720" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="1lbqmwM6PySMvEZ058qA-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Отсутствует историчность и понимание происхождения данных&amp;nbsp;" vertex="1">
+          <mxGeometry height="30" width="250" x="645" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="1lbqmwM6PySMvEZ058qA-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;&lt;u&gt;Данные&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="750" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="1lbqmwM6PySMvEZ058qA-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;&lt;u&gt;Люди&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="384" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="1lbqmwM6PySMvEZ058qA-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Ошибки при ручной валидации и переносе данных." vertex="1">
+          <mxGeometry height="30" width="210" x="360" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="1lbqmwM6PySMvEZ058qA-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Сопротивление изменениям (“раньше было проще”)." vertex="1">
+          <mxGeometry height="30" width="180" x="360" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="1lbqmwM6PySMvEZ058qA-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Часть логики существует только в Excel-файлах и “в голове”." vertex="1">
+          <mxGeometry height="30" width="190" x="319" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="1lbqmwM6PySMvEZ058qA-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Знание бизнес-логики распределено между сотрудниками (ресепшен, бухгалтерия, склад)." vertex="1">
+          <mxGeometry height="30" width="180" x="310" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="1lbqmwM6PySMvEZ058qA-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;&lt;u&gt;Технологии&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="370" y="630" as="geometry" />
+        </mxCell>
+        <mxCell id="1lbqmwM6PySMvEZ058qA-29" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Интеграции с 1С (файловый режим, ограничения форматов)" vertex="1">
+          <mxGeometry height="30" width="240" x="300" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="1lbqmwM6PySMvEZ058qA-33" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Ограничения локальных мощностей серверов и накопителей" vertex="1">
+          <mxGeometry height="30" width="240" x="280" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="1lbqmwM6PySMvEZ058qA-34" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Отсутствие опыта у команды в создании сервисной архитектуры и механизмов развертывания" vertex="1">
+          <mxGeometry height="30" width="240" x="230" y="569.5" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
